@@ -31,7 +31,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />
-<img style="margin: 10px" src="https://www.nesabamedia.com/wp-content/uploads/2022/04/DBeaver-Logo-1.png" height = "50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" height = "50" />
 </div>
 </td></tr></table>  
